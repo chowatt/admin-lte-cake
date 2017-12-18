@@ -1,0 +1,27 @@
+{
+  "name": "CakeLteAdmin",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chowatt/FormBuilder",
+  "authors": [
+    "Chris Howatt <chris@howattech.com>"
+  ],
+  "description": "web components for form builder",
+  "main": "bower.json",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "webroot/bower/"
+  ],
+  "dependencies": {
+    "admin-lte": "*"
+  },
+  "resolutions": {
+    "jquery": ">=1.7.0"
+  }
+}

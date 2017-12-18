@@ -1,0 +1,22 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>AdminLTE 2 | Blank Page</title>
+<!-- Tell the browser to be responsive to screen width -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<!-- Bootstrap 3.3.7 -->
+
+<?= $this->Html->css("/bower/bootstrap/dist/css/bootstrap.min");?>
+<?= $this->Html->css("/bower/font-awesome/css/font-awesome.min");?>
+<?= $this->Html->css("/bower/Ionicons/css/ionicons.min");?>
+<?= $this->Html->css("/bower/admin-lte/dist/css/AdminLTE.min");?>
+<?= $this->Html->css("/bower/admin-lte/dist/css/skins/_all-skins.min");?>
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- Google Font -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
